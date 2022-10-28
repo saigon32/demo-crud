@@ -22,3 +22,6 @@ ahora bien para subir esta aplicacion es muy importante seguir los siguientes pa
 4) si queremos apagar la aplicacion
    docker compose down y para apagarla para que los volumenes no persistan nada: 
    docker-compose down --volumes
+   
+video referencia:
+https://www.youtube.com/watch?v=VTfFpgaSIDw
